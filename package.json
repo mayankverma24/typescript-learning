@@ -1,0 +1,27 @@
+{
+  "name": "typescript-learning",
+  "version": "1.0.0",
+  "description": "Learning TypeScript",
+  "main": "test.js",
+  "dependencies": {
+    "install": "^0.13.0",
+    "typescript": "^3.6.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mayankverma24/typescript-learning.git"
+  },
+  "keywords": [
+    "typescript"
+  ],
+  "author": "Mayank Verma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mayankverma24/typescript-learning/issues"
+  },
+  "homepage": "https://github.com/mayankverma24/typescript-learning#readme"
+}
