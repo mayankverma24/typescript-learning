@@ -4,7 +4,7 @@ function sayHello() {
     return b;
 }
 
-function newfunc(){
+function newfunc() {
     var a = sayHello();
     console.log(a);
 }
