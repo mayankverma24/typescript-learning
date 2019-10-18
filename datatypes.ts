@@ -68,6 +68,14 @@ function finish() {
 doHomework('math', finish);
 
 
+//Map
+let myMap = new Map();
+//set entries
+myMap.set('Name', 'Mayank');
+console.log(myMap.get('Name'));
+
+
+
 
 
 

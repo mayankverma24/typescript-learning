@@ -1,0 +1,12 @@
+{
+    "author":{
+        "name": "karthiq",
+        "age": 27,
+        "gender": "Male",
+        "website": {
+            "name": "chercher tech",
+            "tagline": "Learning is Fun",
+            "topics": "Future technologies"
+            }
+        }
+    }
