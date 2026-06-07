@@ -1,4 +1,4 @@
-class Greeter {
+export class Greeter {
     greeting: string;
     constructor(message: string) {
         this.greeting = message;
@@ -11,13 +11,13 @@ class Greeter {
 let greeter = new Greeter("world");
 console.log(greeter.greet());
 
-class Animal {
+export class Animal {
     move(distanceInMeters: number = 0) {
         console.log(`Animal moved ${distanceInMeters}m.`);
     }
 }
 
-class Dog extends Animal {
+export class Dog extends Animal {
     bark() {
         console.log('Woof! Woof!');
     }
